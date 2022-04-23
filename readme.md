@@ -6,7 +6,7 @@ A quick dive into New York city council's discretionary funds
 
 ## How to use this repository:
 - The data is clubbed together in a separate folder and the csvs naming should help navigate that.
-- The final analyses notebook is [`all-years`]()
+- The final analyses notebook is [`all-years`](https://github.com/areenaarora/discretionary_funding/blob/main/all-years.ipynb)
 
 ## Conclusions:
 Conclusions can be found [here]()
