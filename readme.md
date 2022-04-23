@@ -9,7 +9,7 @@ A quick dive into New York city council's discretionary funds
 - The final analyses notebook is [`all-years`](https://github.com/areenaarora/discretionary_funding/blob/main/all-years.ipynb)
 
 ## Conclusions:
-Conclusions can be found [here]()
+Conclusions can be found [here](https://areenaarora.com/stories/data-viz/discretionary-funds/)
 
 ## Tech Stack
 - Python Pandas for analyses
